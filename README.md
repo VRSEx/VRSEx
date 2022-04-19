@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @VRSEx
-- 👀 I’m interested in ERC20 ERC721 ERC1155
-- 🌱 I’m currently learning BLOCKCHAIN
-- 💞️ I’m looking to collaborate on COMMUNITY DAOS
-- 📫 How to reach me DUDEMONEY@PROTON.ME
+- 👋 @VRSEx
+- 👀 ERC20 ERC721 ERC1155 WEB3 dApps Polygon
+- 🌱 BLOCKCHAIN
+- 💞️ COMMUNITY DAOS
+- 📫 DUDEMONEY@PROTON.ME
 
 <!---
 VRSEx/VRSEx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
