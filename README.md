@@ -2,7 +2,7 @@
 - 👀 ERC20 ERC721 ERC1155 WEB3 dApps Polygon
 - 🌱 BLOCKCHAIN
 - 💞️ COMMUNITY DAOS
-- 📫 eMAIL@memeMATIC.io
+- 📫 web3radio@icloud.com
 
 <!---
 VRSEx/VRSEx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
